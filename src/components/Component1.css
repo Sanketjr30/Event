@@ -1,0 +1,100 @@
+.background {
+  background-color: grey;
+  padding: 15px;
+  margin: -10px;
+}
+#main {
+  display: flex;
+  align-items: center;
+}
+
+img {
+  width: 8%;
+  height: 8%;
+  display: flex;
+  padding-left: 5%;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+}
+
+#cal {
+  height: 2%;
+  width: 2%;
+  margin-left: 20vw;
+}
+
+#event {
+  color: white;
+  font-weight: bold;
+  padding: 1%;
+  margin-right: 30%;
+  margin-left: 36%;
+  border-style: solid;
+  border-color: rgb(158, 152, 152);
+  display: flexbox;
+  margin-bottom: 0%;
+  margin-top: 4%;
+  background-color: rgb(20, 20, 20);
+}
+
+.line {
+  font-size: 15px;
+  font-family: "Times New Roman", Times, serif;
+  margin-left: 40px;
+}
+.color {
+  background-color: rgb(150, 144, 144);
+  width: 50vw;
+  height: 35vw;
+  margin-left: 26%;
+  margin-right: 20%;
+  padding-top: 0.2px;
+  margin-top: 4%;
+  border-radius: 12px;
+}
+
+.text {
+  font-size: 80%;
+  padding-right: 30%;
+}
+.desc {
+  font-size: 300px;
+}
+
+.button {
+  border-radius: 5px;
+  color: cornsilk;
+  background-color: rgb(17, 17, 36);
+  margin-left: 50%;
+}
+button:hover {
+  background-color: rgb(68, 7, 7);
+}
+
+.hey {
+  margin-right: 1%;
+}
+.h {
+  margin-left: 29%;
+}
+.write {
+  color: rgb(50, 51, 54);
+  font-weight: bold;
+  font-size: 15px;
+  margin-right: 60px;
+}
+.w {
+  margin-right: 90px;
+  color: rgb(50, 51, 54);
+  font-weight: bold;
+  font-size: 15px;
+}
+.last {
+  margin-right: 115px;
+  color: rgb(50, 51, 54);
+  font-weight: bold;
+  font-size: 15px;
+}
+.y {
+  padding-right: 12%;
+}
